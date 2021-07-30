@@ -20,7 +20,8 @@ The notion of this challenge was to recreate a stats preview component that was 
 
 ## Screenshot
 
-![Desktop-Output-Screenshot](images/Desktop-Output-Screenshot.png)
+![Desktop-Output-Screenshot](https://user-images.githubusercontent.com/64744438/127680642-e7601251-d334-4315-ad82-1b7adec4233e.PNG)
+
 
 ## Links
 [Github repo](https://github.com/SuthakharPonnambalam/Stats-Preview-Project)  
