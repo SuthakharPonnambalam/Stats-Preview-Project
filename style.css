@@ -1,0 +1,110 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    width: 100%;
+    background-color: hsl(233, 47%, 7%);
+    margin-top: 6.5rem;
+}
+
+main{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    height: 27rem;
+    width: 80%;
+    border-radius: 1rem;
+    background-color: hsl(277, 64%, 61%) 
+}
+
+section.leftPane{
+    width: 50%;
+    height: 100%;
+    background-color: hsl(244, 38%, 16%);
+    font-family: 'Lexend Deca', sans-serif;
+    padding-left: 4rem;
+    padding-top: 3rem;
+    padding-bottom: 2rem;
+    padding-right: 2rem;
+    border-top-left-radius: 1rem;
+    border-bottom-left-radius: 1rem;
+}
+
+section #textContent{
+    height: 90%;
+}
+
+section.rightPane{
+    width: 50%;
+    height: 100%;
+    background: url('images/image-header-desktop.jpg'); 
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-top-right-radius: 1rem;
+    border-bottom-right-radius: 1rem;
+    opacity: 0.5;
+    
+}
+
+#textContent h1{
+    font-size: 2.2rem;
+    color: hsl(0, 0%, 100%);
+    letter-spacing: 1.25px;
+}
+
+#textContent span{
+    color: hsl(277, 64%, 61%);
+}
+
+#textContent p{
+    color: hsla(0, 0%, 100%, 0.75);
+    margin-top: 1.25rem;
+    margin-bottom: 3rem;
+    font-size: 0.80rem;
+    letter-spacing: 1.15px;
+    width: 80%;
+    line-height:2;
+}
+
+#statsSection{
+    width: 75%;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    margin-top: 4.5rem;
+}
+
+#statsSection .dataPoints .dataPointsTitle{
+    color: #fff;
+    font-size: 1.25rem;
+    letter-spacing: 1.1px;
+}
+
+#statsSection .dataPoints .dataPointsContent{
+    color: hsla(0, 0%, 100%, 0.75);
+    text-transform: uppercase;
+    letter-spacing: 1.1px;
+    font-size: 10px;
+}
+
+/* @media (max-width: 768px) {
+    main{
+        flex-direction: column-reverse;
+    }
+    main .rightPane{
+        order: 1;
+    }
+     section .leftPane{
+         display: flex;
+         flex-direction: column;
+     }
+     section .statsSection{
+         flex-direction: column;
+     }
+} */
