@@ -20,7 +20,7 @@ The notion of this challenge was to recreate a stats preview component that was 
 
 ## Screenshot
 
-![Desktop-Output-Screenshot](C:\Users\Suthakhar\Documents\Stats-Preview-Project)
+![Desktop-Output-Screenshot](https://drive.google.com/drive/u/1/folders/14VKTfl1LHxBvVbmED4ydBVUZqUqmgDu9)
 
 ## Links
 [Github repo:](https://github.com/SuthakharPonnambalam/Stats-Preview-Project)
@@ -53,6 +53,6 @@ The learning was great. I learnt a lot about flexbox properties, hsl color codin
 I have one major area where I could use a bit of help. The page is not responsive currently. I have been trying to use media queries but they don't seem to be working (or I don't know how to work with them!), hence I request the community to shed some light and guide me through. 
 
 ## Author
-[Website:](https://suthakharponnambalam.herokuapp.com/)
-[FrontEndMentor:](https://www.frontendmentor.io/profile/SuthakharPonnambalam)
-[LinkedIn:](https://www.linkedin.com/in/suthakharponnambalam/) 
+[Website](https://suthakharponnambalam.herokuapp.com/)  
+[FrontEndMentor](https://www.frontendmentor.io/profile/SuthakharPonnambalam)  
+[LinkedIn](https://www.linkedin.com/in/suthakharponnambalam/)   
