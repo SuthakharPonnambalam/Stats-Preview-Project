@@ -20,11 +20,11 @@ The notion of this challenge was to recreate a stats preview component that was 
 
 ## Screenshot
 
-![Desktop-Output-Screenshot](https://drive.google.com/drive/u/1/folders/14VKTfl1LHxBvVbmED4ydBVUZqUqmgDu9)
+![Desktop-Output-Screenshot](images/Desktop-Output-Screenshot.png)
 
 ## Links
-[Github repo:](https://github.com/SuthakharPonnambalam/Stats-Preview-Project)
-Github Pages Link:
+[Github repo](https://github.com/SuthakharPonnambalam/Stats-Preview-Project)  
+[Github Pages Link](https://suthakharponnambalam.github.io/Stats-Preview-Project/)
 
 ## My Process
 
